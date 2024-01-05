@@ -1,2 +1,2 @@
-# VijayGIT
-Market Performance analysis for Atliq Hardware using differing concepts of SQL like Subquery, CTE, user-defined function, and view- to generate insightful reports.
+Vrinda Store wants to create an annual sales report for 2023 , so that Vrinda can understand their customers and can grow more their business in next year.
+
